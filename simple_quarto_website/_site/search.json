@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sample QMD Document",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum[^1].\n\n“This is a quote. Quotes are cool.” - Some Author\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus.\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nDonec a diam lectus. Sed sit amet ipsum mauris."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Sample QMD Document",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus."
+  },
+  {
+    "objectID": "index.html#two-column-format",
+    "href": "index.html#two-column-format",
+    "title": "Sample QMD Document",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nDonec a diam lectus. Sed sit amet ipsum mauris."
+  },
+  {
+    "objectID": "index.html#list-of-items",
+    "href": "index.html#list-of-items",
+    "title": "Sample QMD Document",
+    "section": "List of Items",
+    "text": "List of Items\n\nItem 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "index.html#important-equations",
+    "href": "index.html#important-equations",
+    "title": "Sample QMD Document",
+    "section": "Important Equations",
+    "text": "Important Equations\nThe Pythagorean theorem can be written as an inline equation like this: ( a^2 + b^2 = c^2 )\nAnd here’s a displayed equation:\n\\[\nE = mc^2\n\\]"
+  },
+  {
+    "objectID": "index.html#table",
+    "href": "index.html#table",
+    "title": "Sample QMD Document",
+    "section": "Table",
+    "text": "Table\n\n\n\nHeader1\nHeader2\n\n\n\n\nCell1A\nCell1B\n\n\nCell2A\nCell2B"
+  },
+  {
+    "objectID": "index.html#embedded-video",
+    "href": "index.html#embedded-video",
+    "title": "Sample QMD Document",
+    "section": "Embedded Video",
+    "text": "Embedded Video"
+  },
+  {
+    "objectID": "index.html#mermaid-diagram",
+    "href": "index.html#mermaid-diagram",
+    "title": "Sample QMD Document",
+    "section": "Mermaid Diagram",
+    "text": "Mermaid Diagram\n\n\n\n\ngraph TD\n    A[Start] --&gt; B[Choose an item]\n    B --&gt; C[Do you have a coupon?]\n    C -- Yes --&gt; D[Use coupon]\n    C -- No --&gt; E[Buy without coupon]\n    D --&gt; F[Enjoy your purchase]\n    E --&gt; F"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1-title",
+    "href": "slides/slides.html#slide-1-title",
+    "title": "Sample Presentation",
+    "section": "Slide 1 Title",
+    "text": "Slide 1 Title\nContent for slide 1.\n\nSlide 1 Image"
+  },
+  {
+    "objectID": "slides/slides.html#slide-2-title",
+    "href": "slides/slides.html#slide-2-title",
+    "title": "Sample Presentation",
+    "section": "Slide 2 Title",
+    "text": "Slide 2 Title\nThis slide will contain a citation(McSweeney et al. 2001)."
+  },
+  {
+    "objectID": "slides/slides.html#slide-3-title",
+    "href": "slides/slides.html#slide-3-title",
+    "title": "Sample Presentation",
+    "section": "Slide 3 Title",
+    "text": "Slide 3 Title\n\nSlide 3 ImageContent for slide 3.\n\n\n\n\n\n\nMcSweeney, Peter A, Dietger Niederwieser, Judith A Shizuru, Brenda M Sandmaier, Arthur J Molina, David G Maloney, Thomas R Chauncey, et al. 2001. “Hematopoietic Cell Transplantation in Older Patients with Hematologic Malignancies: Replacing High-Dose Cytotoxic Therapy with Graft-Versus-Tumor Effects.” Blood, The Journal of the American Society of Hematology 97 (11): 3390–400."
+  }
+]

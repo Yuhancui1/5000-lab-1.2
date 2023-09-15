@@ -1,0 +1,80 @@
+---
+title: "Sample QMD Document"
+author: "Yuhan Cui"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    number_sections: true
+---
+
+# Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum[^1]. 
+
+> "This is a quote. Quotes are cool." - Some Author
+
+## Overview
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus.
+
+## Two Column Format
+
+<div class="columns-2">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+---
+
+Donec a diam lectus. Sed sit amet ipsum mauris.
+
+</div>
+
+# Main Content
+
+![Sample Image 1](https://www.georgetown.edu/wp-content/uploads/2019/09/SSmonuments-15-2000x1125-c-default.jpg)
+
+## List of Items
+
+- Item 1
+- Item 2
+- Item 3
+
+## Important Equations
+
+The Pythagorean theorem can be written as an inline equation like this: \( a^2 + b^2 = c^2 \)
+
+And here's a displayed equation:
+
+$$
+E = mc^2
+$$
+
+## Table
+
+| Header1 | Header2 |
+|---------|---------|
+| Cell1A  | Cell1B  |
+| Cell2A  | Cell2B  |
+
+# Additional Content
+
+![Sample Image 2](https://www.georgetown.edu/wp-content/uploads/2019/09/20170927_UndergradStock-331_web-2000x1500-c-default.jpg)
+
+## Embedded Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M7lc1UVf-VE" frameborder="0" allowfullscreen></iframe>
+
+
+## Mermaid Diagram
+
+```{mermaid}
+graph TD
+    A[Start] --> B[Choose an item]
+    B --> C[Do you have a coupon?]
+    C -- Yes --> D[Use coupon]
+    C -- No --> E[Buy without coupon]
+    D --> F[Enjoy your purchase]
+    E --> F
+```
